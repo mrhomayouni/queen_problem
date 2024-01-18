@@ -37,7 +37,7 @@ $k = 0;
 while (true) {
     $k++;
     if ($k > 100) {
-        echo "<a href='queen_problem2.php'> again </a>";
+        echo "<a href='index.php'> again </a>";
         exit();
     }
     $fitnesses = array();
